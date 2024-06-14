@@ -1,0 +1,38 @@
+[
+  {
+    "id": "adelinocorreia",
+    "name": "Adelino Correia",
+    "job": "Manager Information and Communication Systems",
+    "company": "INL"
+  },
+  {
+    "id": "alekseykladov",
+    "name": "Aleksey Kladov",
+    "job": "Software Engineer",
+    "company": "TigerBeetle"
+  },
+  {
+    "id": "filipecabaco",
+    "name": "Filipe Cabaço",
+    "job": "Software Engineer",
+    "company": "Supabase"
+  },
+  {
+    "id": "filipesantiago",
+    "name": "Filipe Santiago",
+    "job": "Software Engineer",
+    "company": "Aston Martin F1 Team"
+  },
+  {
+    "id": "ricardomota",
+    "name": "Ricardo Mota",
+    "job": "Communications Manager",
+    "company": "PUBG"
+  },
+  {
+    "id": "vaniagoncalves",
+    "name": "Vânia Gonçalves",
+    "job": "Research Program Manager",
+    "company": "Cloudflare"
+  }
+]

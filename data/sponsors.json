@@ -1,0 +1,128 @@
+[
+  [
+    [
+      {
+        "image": "accenture",
+        "link": "https://accenture.com/"
+      },
+      {
+        "image": "agentifai",
+        "link": "https://agentifai.com/"
+      },
+      {
+        "image": "checkmarx",
+        "link": "https://checkmarx.com/"
+      },
+      {
+        "image": "critical-techworks",
+        "link": "https://www.criticaltechworks.com/"
+      },
+      {
+        "image": "retail-consult",
+        "link": "https://www.retail-consult.com/"
+      },
+      {
+        "image": "uphold",
+        "link": "https://uphold.com/"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "image": "cegid",
+        "link": "https://www.cegid.com/"
+      },
+      {
+        "image": "codsec",
+        "link": "https://www.codsec.io/"
+      },
+      {
+        "image": "continental",
+        "link": "https://www.continental.com"
+      },
+      {
+        "image": "deloitte",
+        "link": "https://www2.deloitte.com/"
+      },
+      {
+        "image": "itsector",
+        "link": "https://www.itsector.pt/"
+      },
+      {
+        "image": "mcsonae",
+        "link": "https://mc.sonae.pt/"
+      },
+      {
+        "image": "optaresolutions",
+        "link": "https://optaresolutions.com/"
+      },
+      {
+        "image": "xpandit",
+        "link": "https://www.xpand-it.com/"
+      },
+      {
+        "image": "yarilabs",
+        "link": "https://www.yarilabs.com/"
+      }
+    ],
+    [
+      {
+        "image": "aptiv",
+        "link": "https://www.aptiv.com/"
+      },
+      {
+        "image": "bosch",
+        "link": "https://www.bosch.pt/"
+      },
+      {
+        "image": "celfocus",
+        "link": "https://www.celfocus.com/"
+      },
+      {
+        "image": "dtx-colab",
+        "link": "https://www.dtx-colab.pt/"
+      },
+      {
+        "image": "eurotux",
+        "link": "https://eurotux.com"
+      },
+      {
+        "image": "ey",
+        "link": "https://www.ey.com/"
+      },
+      {
+        "image": "glintt",
+        "link": "https://www.glintt.com"
+      },
+      {
+        "image": "inovaria",
+        "link": "https://www.inova-ria.pt/"
+      },
+      {
+        "image": "kpmg",
+        "link": "https://kpmg.com"
+      },
+      {
+        "image": "issuu",
+        "link": "https://issuu.com/"
+      },
+      {
+        "image": "nttdata",
+        "link": "https://www.nttdata.com/"
+      },
+      {
+        "image": "openvia",
+        "link": "https://www.openvia.io/"
+      },
+      {
+        "image": "pixelmatters",
+        "link": "https://www.pixelmatters.com/"
+      },
+      {
+        "image": "seegno",
+        "link": "https://seegno.com/"
+      }
+    ]
+  ]
+]

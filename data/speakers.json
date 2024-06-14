@@ -1,0 +1,442 @@
+[
+  {
+    "date": "2024/2/6",
+    "speakers": [
+      {
+        "id": "marcelopereira",
+        "name": "Marcelo Pereira",
+        "role": "Head of Application Security Engineering",
+        "company": "Checkmarx",
+        "talk": "Application Security sem comprometer Developer Efficiency. 12h",
+        "linkedin": "marcgp",
+        "github": "marcgp",
+        "twitter": "",
+        "href": "",
+        "description": "Two decades of wide-ranging experience in designing, developing, and testing mission critical full-stack applications. Strong communicator, able to build and strengthen relationships across functions to drive cohesive, strategic operations. Trained leader capable of mentoring teams to achieve and exceed corporate goals. Multilingual in Portuguese, English, and Spanish languages."
+      },
+      {
+        "id": "hurmatzeeshan",
+        "name": "Hurmat Zeeshan",
+        "role": "DevOps Specialist",
+        "company": "Accenture",
+        "talk": "READY! SET! CLOUD! 14h",
+        "linkedin": "",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "I'm an Advanced App Engineering Specialist from Accenture’s Braga Office. I like to work in  SysOps, DevSecOps and DevOps areas. Relevant experience on AWS, GCP, Azure, Oracle Cloud and Digital Ocean."
+      },
+      {
+        "id": "joaotravanca",
+        "name": "João Travanca",
+        "role": "DevOps Engineer",
+        "company": "Accenture",
+        "talk": "READY! SET! CLOUD! 14h",
+        "linkedin": "joão-travanca-254906a5",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "I'm an Custom Software Engineering Analyst from Accenture’s Braga Office. I like to work in DevOps. Mainly experienced on GCP and Terraform."
+      },
+      {
+        "id": "diogocouto",
+        "name": "Diogo Couto",
+        "role": "Software Engineer",
+        "company": "Kelvin Inc",
+        "talk": "Motivation vs Consistency: Fueling Long-Term Success in Software Engineering. 15h",
+        "linkedin": "djcouto",
+        "github": "djcouto",
+        "twitter": "",
+        "href": "",
+        "description": "At Kelvin, I work as a frontend engineer on a talented team that develops innovative and efficient software solutions for the energy sector."
+      },
+      {
+        "id": "filipecabaco",
+        "name": "Filipe Cabaço",
+        "role": "Software Engineer",
+        "company": "Supabase",
+        "talk": "Motivation vs Consistency: Fueling Long-Term Success in Software Engineering. 15h",
+        "linkedin": "filipecabaco",
+        "github": "filipecabaco",
+        "twitter": "",
+        "href": "https://filipecabaco.com/",
+        "description": "10+ years of experience in multiple contexts and focusing on Elixir for the last 7 years. Currently working at Supabase building Realtime but also releasing some open source libraries with ex_tauri, openapi_generator, francis and francis_htmx.\nEager to learn more and happy to share anything coding related!"
+      },
+      {
+        "id": "nelsonestevao",
+        "name": "Nelson Estevão",
+        "role": "Software Engineer",
+        "company": "Marmela",
+        "talk": "Motivation vs Consistency: Fueling Long-Term Success in Software Engineering. 15h",
+        "linkedin": "nelsonmestevao",
+        "github": "nelsonmestevao",
+        "twitter": "nelsonmestevao",
+        "href": "https://estevao.org",
+        "description": "I’m Nelson, and I am a Software Engineer at Marmela, specializing in Elixir with Phoenix and Phoenix LiveView to build robust and scalable applications that provide exceptional user experiences.\nMy academic background includes a degree in Economics and another in Software Engineering, both from the University of Minho, where I also did a one year specialization in Data Science and Distributed Systems.\nI’m a former President of the Software Engineering Students Association (CeSIUM), and I was an active member since my freshman year and will remain a lifelong associate."
+      },
+      {
+        "id": "ricardocastro",
+        "name": "Ricardo Castro",
+        "role": "Principal Engineer, SRE",
+        "company": "FanDuel / Blip.pt",
+        "talk": "Motivation vs Consistency: Fueling Long-Term Success in Software Engineering. 15h",
+        "linkedin": "mccricardo",
+        "github": "mccricardo",
+        "twitter": "mccricardo",
+        "href": "https://mccricardo.com/",
+        "description": "Principal Engineer, SRE at FanDuel/Blip.pt. MSc in Computer Science by the University of Porto. CK{AD, A, S} by Cloud Native Computing Foundation (CNCF) | Linux Foundation. {Terraform, Consul, Vault} Associate by HashiCorp. Working daily to build high-performance, reliable and scalable systems. DevOps Porto meetup co-organizer and DevOpsDays Portugal co-organizer. A strong believer in culture and teamwork. Open source passionate, martial arts amateur, and metal lover."
+      }
+    ]
+  },
+  {
+    "date": "2024/2/7",
+    "speakers": [
+      {
+        "id": "josecarlosalves",
+        "name": "José Carlos Alves",
+        "role": "IT Infrastructure Area Manager",
+        "company": "MC Sonae",
+        "talk": "Workshop | Platform Engineering Roadmap. 9h",
+        "linkedin": "josé-carlos-alves-5424a94",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "O José Carlos é licenciado em Engenharia de Sistemas e Informática pela Universidade do Minho. Com mais de 20 anos de experiência na área de gestão TI, atualmente tem a liderança das áreas que fazem o desenho, implementação, gestão e operação de todos os serviços de infraestrutura de TI (on-premises e/ou  cloud) e que são a base e o suporte de todos os serviços e soluções de tecnologia que suportam os sistemas de informação da MC Sonae. Contribui de forma ativa para transformar soluções tecnológicas de infraestrutura em vantagem competitiva para a organização, desafiando e potenciando o trabalho em equipa."
+      },
+      {
+        "id": "tiagoferreira",
+        "name": "Tiago Ferreira",
+        "role": "Architecture & Infrastructure Tech Lead",
+        "company": "MC Sonae",
+        "talk": "Workshop | Platform Engineering Roadmap. 9h",
+        "linkedin": "tiago-ferreira-399340a",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "O Tiago Ferreira é licenciado em Engenharia de Sistemas e Informática pela Universidade do Minho. Depois de ter passado pelo desenvolvimento de software, há mais de 10 anos, tem feito um percurso mais ligado às áreas de infraestruturas de TI apoiando de perto as equipas de desenvolvimento, sendo visto como uma referência. Atualmente exerce a função de Tech Lead na área de Architecture&Infrastructure na direção de Business Information Technology (BIT) da MC Sonae."
+      },
+      {
+        "id": "ricardomartins",
+        "name": "Ricardo Martins",
+        "role": "Security Strategy and Architecture Area Manager",
+        "company": "MC Sonae",
+        "talk": "Workshop | Security Analysis and Vulnerability Management. 9h",
+        "linkedin": "ricardo3tm",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "O Ricardo Martins é Licenciado e Mestre em Engenharia de Electrónica e de Telecomunicações, frequentando atualmente o Programa Doutoral em Engenharia Informática pela Universidade de Aveiro. Com 26 anos de experiência na área de suporte e gestão TIC, o Ricardo especializou-se em Cibersegurança nos últimos 6 anos, sendo atualmente responsável pela área de Estratégia e Arquitetura de Segurança na direção de Business Information Technology (BIT) da MC Sonae."
+      },
+      {
+        "id": "alfredofranca",
+        "name": "Alfredo França",
+        "role": "Operation Security Coordinator",
+        "company": "MC Sonae",
+        "talk": "Workshop | Security Analysis and Vulnerability Management. 9h",
+        "linkedin": "alfredofranca",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Com uma sólida experiência no campo da Cibersegurança, o Alfredo atualmente exerce a função de Tech Lead na área de Segurança na direção de Business Information Technology (BIT) da MC Sonae, sendo responsável pela área de “Segurança Ofensiva”.\nPara além disso, tem um forte compromisso com a partilha de conhecimento, lecionando na Licenciatura de Segurança de Redes e Computadores na ESTGF (Politécnico do Porto), onde partilha a sua experiência em disciplinas como “Auditoria Informática” e “Testes de Penetração e Hacking Ético”."
+      },
+      {
+        "id": "tiagopinto",
+        "name": "Tiago Pinto",
+        "role": "COO & Co-Founder",
+        "company": "CodSec",
+        "talk": "Workshop | How to protect your web applications. A practical guide from exploring to mitigating it. 9h",
+        "linkedin": "tiagoavpinto",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "I am a certified Application Security Architect with a demonstrated history of working in the managed security industry and with a background in software development.\nDuring the last 5 years, while working in managed security services companies, I’ve worn the security architect and manager hats. I provided consultancy and managed the implementation of security programs in various organizations, including large enterprise companies, in different verticals. \nMy goal in my current role at CodSec is to help software development organizations to transform their AppSec program with Practical Secure Software Development Life Cycle (SDLC) as a Service. I’m focused on partnering with developers to help them design and implement security into SDLC. I love sharing my practical experience in threat modeling, security testing, code reviews, vulnerability management, and cloud-based security.\nMy passion is to leverage technologies for process automation - to automate the monitoring, alerting, and mitigation/prevention of risks associated with the Software Development Life Cycle."
+      },
+      {
+        "id": "cristianosilvasousa",
+        "name": "Cristiano Silva Sousa",
+        "role": "Manager",
+        "company": "Deloitte",
+        "talk": "Workshop | Code Rumble: #Analytics #FinancialRisk #InterestRateRisk. 9h",
+        "linkedin": "cristianosilvasousa",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Cristiano is a Manager at Deloitte's Risk Advisory division for Financial Services and regional lead of the Risk Advisory Implement Service Line team, based in Braga.  Straight from University, he joined Deloitte in 2014 having in December 2021 relocated to Braga.\nHis main focus has been in the systems and architecture design, implementation and delivery of Financial Risk projects using, among others, SAS and Microsoft technologies, managing engagements and liaising with Director and C-level stakeholders as well as cultivating relationships and new business opportunities.\nResearch interests include: multi-core and many-core system architectures, high performance computing, efficient algorithmic and data structure design, platform-independent design of parallel algorithms, static verification of source code, correct software advocacy, graph theory and algorithms."
+      },
+      {
+        "id": "paulolopes",
+        "name": "Paulo Lopes",
+        "role": "Senior Solution Architect",
+        "company": "Retail Consult",
+        "talk": "Tech behind Trends: Da Ideia à Prateleira. 11h30m",
+        "linkedin": "paulo-lopes-75186144",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Paulo é Senior Solution Architect na Retail Consult, com mais de 12 anos de experiência a trabalhar com retalhistas por todo o mundo, a fornecer soluções integradas de ponta a ponta como parte de programas de transformação digital. Ao longo da sua extensa carreira, desempenhou vários papéis em diferentes domínios de negócios, como merchandising, supply chain, planeamento e otimização, desde consultoria técnica até liderança em design e implementação de arquiteturas complexas. Paulo é atualmente responsável pelo desenvolvimento de aplicações orientadas à Cloud na Retail Consult."
+      },
+      {
+        "id": "filipesantiago",
+        "name": "Filipe Santiago",
+        "role": "Software Engineer",
+        "company": "Aston Martin F1 Team",
+        "talk": "Como o software ajuda numa equipa de Fórmula 1? 14h",
+        "linkedin": "filipe-santiago-080034a4",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Apaixonado por tecnologia e pelo desporto motorizado, o Filipe encontrou a fórmula 1 como a união perfeita dos dois mundos."
+      },
+      {
+        "id": "ricardomota",
+        "name": "Ricardo Mota",
+        "role": "Communications Manager",
+        "company": "PUBG",
+        "talk": "Os videojogos como opção de carreira. 15h",
+        "linkedin": "ricardo-mota-0b82123",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Ricardo Mota entrou no mundo dos videojogos através da escrita, escrevendo críticas de videojogos e eventos gaming para o Fraglíder e, posteriormente, o Rubber Chicken Games. Colaborou com a organização de eventos dedicados aos videojogos e foi um dos co-fundadores e organizadores do Indie X. Começou com o ensino em ações de formação e daí passou a lecionar sobre videojogos no IPMAIA e na Universidade Lusófona. Trabalhou como Relações Públicas e Community Manager na Bigmoon Studios e atualmente trabalha como Communications Manager para a KRAFTON, no estúdio da PUBG no Porto."
+      },
+      {
+        "id": "brunofernandes",
+        "name": "Bruno Fernandes",
+        "role": "Professor and Researcher",
+        "company": "University of Minho",
+        "talk": "O Futuro Universitário com a Inteligência Artificial. 17h",
+        "linkedin": "brunofernandescv",
+        "github": "",
+        "twitter": "",
+        "href": "https://www4.di.uminho.pt/~jno/sitedi/nm_8347.html",
+        "description": "Bruno Fernandes holds a B.Sc. and M.Sc. in Informatics Engineering from the University of Minho. He concluded his PhD in Informatics, in 2021, at the same university, with the maximum grade of Very Good (unanimously). Bruno is an AI/ML researcher at the ALGORITMI center (since 2017), a research unit of the School of Engineering of the University of Minho, and a professor at the Department of Informatics of the same university (since 2018), lecturing Machine Learning and Artificial Intelligence to the master's courses in Informatics Engineering, Systems Engineering, and Mathematics and Computation. He has been working as a software engineer for more than 8 years. He has published more than 20 scientific papers and book chapters in relevant scientific journals and conference proceedings, receiving multiple awards for his research. He is also an invited reviewer of some of the most important international journals and scientific conferences of the area. To date, he has supervised 19 MSc and has been responsible for multiple research projects. He has conceived and deployed multiple solutions specimens applied to traffic flow, personality assessment, deep image clustering, and wastewater treatment plants, among others, based on disruptive methods related to machine and deep learning, sensorization, ambient intelligence, and affective computing. He is now focused on his research and on allowing the world, and our society, to take the next big step towards a better future."
+      },
+      {
+        "id": "josecarlosramalho",
+        "name": "José Carlos Ramalho",
+        "role": "Professor and Researcher",
+        "company": "University of Minho",
+        "talk": "O Futuro Universitário com a Inteligência Artificial. 17h",
+        "linkedin": "jcramalho",
+        "github": "",
+        "twitter": "",
+        "href": "https://www.di.uminho.pt/~jcr/thesup-v2.php",
+        "description": "José Carlos Ramalho graduated in 1991 as a Systems and Informatics Engineer. During his graduation he has worked as a freelancer software developer and as a network technician for Apple. During this time he also taught several courses about computer programming for several public institutions. In 1991 he joined the Department of Informatics as an Assistent and started his MSc work. He has worked as a teacher since 1991 until the present. He also has been a researcher of Algoritmi's Research since then. He finishes his Phd in 2000 under the subject \"Structured Documents Semantics\". From 1996 until the present he has been researching in Structured Documents area (currently he is coordinating several projects in Digital Archives and Libraries field). He was responsible for the creation of the conference series called XATA (starting in 2003 until now). He wrote three books and many articles presented in internacional and nacional conferences. During 2008, together with two former post-graduation students he launches KEEP Solutions, a spin-off software company focusing Information Archiving, Information Management, Information Access and Information Deployment. In the last years, his focus was in Digital Preservation and Web Semantic where he was involved in projects like: RODA, SCAPE and E-ARK."
+      },
+      {
+        "id": "josenunooliveira",
+        "name": "José Nuno Oliveira",
+        "role": "Professor and Researcher",
+        "company": "University of Minho",
+        "talk": "O Futuro Universitário com a Inteligência Artificial. 17h",
+        "linkedin": "jose-nuno-oliveira-608aa81",
+        "github": "",
+        "twitter": "",
+        "href": "https://www.di.uminho.pt/~jno/",
+        "description": "Sou professor no Departamento de Informática da Universidade do Minho e investigador do HASLab / INESC TEC. Também sou membro do IFIP WG 2.1 (Algorithmic Languages and Calculi) e da Associação Formal Methods Europe (FME). Faço parte do conselho editorial da revista Formal Aspects of Computing da Springer."
+      },
+      {
+        "id": "orlandobelo",
+        "name": "Orlando Belo",
+        "role": "Professor",
+        "company": "University of Minho",
+        "talk": "O Futuro Universitário com a Inteligência Artificial. 17h",
+        "linkedin": "orlando-belo-9431942a",
+        "github": "",
+        "twitter": "",
+        "href": "https://www.di.uminho.pt/~omb/Orlando_Belo/Home.html",
+        "description": "Orlando Belo is Associate Professor, with Habilitation, in the Department of Informatics at University of Minho, Portugal. He is a member of the Department of Informatics at University of Minho since 1986, and a member of the ALGORITMI R&D Centre, at the same university, working in Business Intelligence and Business Analytics, with particular emphasis in areas involving Databases, Data Warehousing Systems, Data Analysis, and Data Visualization."
+      }
+    ]
+  },
+  {
+    "date": "2024/2/8",
+    "speakers": [
+      {
+        "id": "monicacasanova",
+        "name": "Mónica Casanova",
+        "role": "Software Developer",
+        "company": "Checkmarx",
+        "talk": "Workshop | Software Supply Chain Security: An Introduction. 9h",
+        "linkedin": "mónica-casanova-339a3a113",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "ruigomes",
+        "name": "Rui Gomes",
+        "role": "Software Team Leader",
+        "company": "Checkmarx",
+        "talk": "Workshop | Software Supply Chain Security: An Introduction. 9h",
+        "linkedin": "ruihgomes",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "joaorovira",
+        "name": "João Rovira",
+        "role": "Talent Acquisition Senior Analyst & Employer Branding",
+        "company": "Accenture",
+        "talk": "Workshop | How to make an awesome CV? 9h",
+        "linkedin": "joaorovira",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "My name is João Rovira and I´m passionate about the Human Resources area! I´ve already had experience in Recruitment and Employer Branding activities in the Tech Industry. I was responsible for all the Employer Branding strategy of Accenture and I´ve recruited about a hundred people for several Tech Roles. \nBesides that, I´ve worked as an HR Consultant and my main responsibilities were related to the Global Design of some HR Departments from Multinational Companies and I got the HR Local and Legal requirements from those HR Departments to map to the Global Templates. One thing that you have to know about me it´s the fact that I´m proud of being a scout for many years because it gave me a lot of interpersonal, leadership, communication, and autonomy skills."
+      },
+      {
+        "id": "emanuelmota",
+        "name": "Emanuel Mota",
+        "role": "CEO",
+        "company": "Yari Labs",
+        "talk": "Workshop | Desenvolvimento de um Jogo REAL TIME - com Elixir, Phoenix Channels e Vue.js. 9h",
+        "linkedin": "emanuel-mota-7371613",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Entrepreneur and Software Engineer with a degree in Mathematics and Computer Science. During the last 17 years has developed software in a variety of areas, including banking and financial systems, retail, distributed and decentralised systems. With 9 years of banking experience working as both Software Developer and Information Systems Auditor for 2 portuguese banks. Currently focusing extensively on developing technology around cryptocurrencies and blockchain technology applied to financial services."
+      },
+      {
+        "id": "pedrolima",
+        "name": "Pedro Lima",
+        "role": "Software Developer",
+        "company": "Yari Labs",
+        "talk": "Workshop | Desenvolvimento de um Jogo REAL TIME - com Elixir, Phoenix Channels e Vue.js. 9h",
+        "linkedin": "pedro-lima-1693a7153",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "joaomartins",
+        "name": "João Martins",
+        "role": "Software Developer",
+        "company": "Yari Labs",
+        "talk": "Workshop | Desenvolvimento de um Jogo REAL TIME - com Elixir, Phoenix Channels e Vue.js. 9h",
+        "linkedin": "joão-martins-bb3142288",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "joaofolha",
+        "name": "João Folha",
+        "role": "Data Scientist",
+        "company": "Uphold",
+        "talk": "Decoding the Future: Exploring Bitcoin, Blockchain, and DeFi Innovations. 11:30h",
+        "linkedin": "joão-folha",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "I've been working as a data scientist at Uphold for the past 3 years. Some of the projects I've worked on include a fraud prevention machine learning model and a crypto research bot using OpenAI's GPT. I've also crafted numerous dashboards and analyses across most of Uphold's product lines. My passion lies in bridging business and data, bringing insightful perspectives to support data-driven decision-making."
+      },
+      {
+        "id": "adelinocorreia",
+        "name": "Adelino Correia",
+        "role": "Manager Information and Communication Systems",
+        "company": "INL",
+        "talk": " A Firewall morreu! 14h",
+        "linkedin": "adelino-c-50a113101",
+        "github": "",
+        "twitter": "",
+        "href": "https://inl.int/community/adelino-correia/",
+        "description": "Com background académico e profissional em TI, Adelino desempenha o cargo de IT Manager no INL, onde tem como principal objetivo potenciar a excelência da investigação do Laboratório."
+      },
+      {
+        "id": "alekseykladov",
+        "name": "Aleksey Kladov",
+        "role": "Software Engineer",
+        "company": "TigerBeetle & Top Rust Contributor",
+        "talk": " Modern Systems Programming: Rust and Zig. 15h",
+        "linkedin": "",
+        "github": "matklad",
+        "twitter": "",
+        "href": "https://matklad.github.io/",
+        "description": "Hi I'm Alexsey Kladov, I used to do math. Although I no longer do mathematics daily, it is the basis I use to think about programming. I like writing code just for the sake of it. I like deleting code even more. I like short, simple, robust and beautiful code, which not only gets the job done, but does it in an obviously correct way."
+      }
+    ]
+  },
+  {
+    "date": "2024/2/9",
+    "speakers": [
+      {
+        "id": "vitorribeiro",
+        "name": "Vítor Ribeiro",
+        "role": "Software Developer",
+        "company": "Cegid",
+        "talk": "Workshop | Cegid: AI for Business. 9h",
+        "linkedin": "vitor-ribeiro-b63245b6",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "joaofolha",
+        "name": "João Folha",
+        "role": "Data Scientist",
+        "company": "Uphold",
+        "talk": "Workshop | How to build a blockchain in Python. 9h",
+        "linkedin": "joão-folha",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "I've been working as a data scientist at Uphold for the past 3 years. Some of the projects I've worked on include a fraud prevention machine learning model and a crypto research bot using OpenAI's GPT. I've also crafted numerous dashboards and analyses across most of Uphold's product lines. My passion lies in bridging business and data, bringing insightful perspectives to support data-driven decision-making."
+      },
+      {
+        "id": "ritafaria",
+        "name": "Rita Faria",
+        "role": "Chief Technical Titan",
+        "company": "Critical TechWorks",
+        "talk": "Desenvolvimento de Software e Engenharia de Dados no grupo BMW - Integração e Criação de valor. 11:30h",
+        "linkedin": "rivfaria",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Formada em Engenharia Informática pela Universidade do Minho. Atualmente faz parte da equipa de engenharia da Critical Techworks, empresa responsável pelo desenvolvimento de software de excelência para uma das maiores empresas da área automóvel."
+      },
+      {
+        "id": "joseantunes",
+        "name": "José Antunes",
+        "role": "Data Engineer",
+        "company": "Critical TechWorks",
+        "talk": "Desenvolvimento de Software e Engenharia de Dados no grupo BMW - Integração e Criação de valor. 11:30h",
+        "linkedin": "josemantunes",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": "Licenciado em Engenharia e Gestão de Sistemas de Informação pela Universidade do Minho com 15 anos de experiência diversificada em IT. Atualmente faz parte da equipa de engenharia da Critical Techworks, empresa responsável pelo desenvolvimento de software de excelência para uma das maiores empresas da área automóvel."
+      },
+      {
+        "id": "brunocarvalho",
+        "name": "Bruno Carvalho",
+        "role": "Software Engineer",
+        "company": "AgentifAI",
+        "talk": "Decoding AI Language Models: From Turing’s Dream to Today’s Reality. 14h",
+        "linkedin": "brunocarvalho17",
+        "github": "",
+        "twitter": "",
+        "href": "",
+        "description": ""
+      },
+      {
+        "id": "vaniagoncalves",
+        "name": "Vânia Gonçalves",
+        "role": "Research Program Manager",
+        "company": "Cloudflare",
+        "talk": "Securing the Internet in the Quantum Age. 15h",
+        "linkedin": "vaniagoncalves",
+        "github": "",
+        "twitter": "",
+        "href": "https://blog.cloudflare.com/author/vania",
+        "description": "Vânia Gonçalves is currently a Research Program Manager at Cloudflare. With over 20 years of international experience in technology, security, digital transformation and research across different industries, she is a passionate and driven leader who aims to leverage technology, research and innovation to create positive social impact. Vânia is also passionate about women’s empowerment, diversity and inclusion and throughout her career dedicates efforts on building a more diverse tech ecosystem while supporting women in tech to step up."
+      }
+    ]
+  }
+]

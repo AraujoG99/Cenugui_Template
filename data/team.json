@@ -1,0 +1,124 @@
+{
+  "organization": {
+    "title": "Main Organization",
+    "list": [
+      {
+        "avatar": "gustavopereira.jpg",
+        "name": "Gustavo Pereira"
+      },
+      {
+        "avatar": "mariorodrigues.jpg",
+        "name": "Mário Rodrigues"
+      },
+      {
+        "avatar": "ruioliveira.jpg",
+        "name": "Rui Oliveira"
+      }
+    ]
+  },
+  "marketing": {
+    "title": "Marketing",
+    "list": [
+      {
+        "avatar": "adrianafrazao.jpg",
+        "name": "Adriana Frazão"
+      },
+      {
+        "avatar": "placeholder.png",
+        "name": "Eduardo Faria"
+      },
+      {
+        "avatar": "juliopinto.jpg",
+        "name": "Júlio Pinto"
+      },
+      {
+        "avatar": "lararegina.jpg",
+        "name": "Lara Regina"
+      },
+      {
+        "avatar": "rafaelseara.jpg",
+        "name": "Rafael Seara"
+      },
+      {
+        "avatar": "ricardolucena.jpg",
+        "name": "Ricardo Lucena"
+      },
+      {
+        "avatar": "ritacamacho.jpg",
+        "name": "Rita Camacho"
+      }
+    ]
+  },
+  "program": {
+    "title": "Program",
+    "list": [
+      {
+        "avatar": "fernandopires.jpg",
+        "name": "Fernando Pires"
+      },
+      {
+        "avatar": "martimferreira.jpg",
+        "name": "Martim Ferreira"
+      },
+      {
+        "avatar": "pedrosousa.jpg",
+        "name": "Pedro Sousa"
+      },
+      {
+        "avatar": "salomefaria.jpg",
+        "name": "Salomé Faria"
+      }
+    ]
+  },
+  "activities": {
+    "title": "Sponsorships",
+    "list": [
+      {
+        "avatar": "placeholder.png",
+        "name": "Flávia Araújo"
+      },
+      {
+        "avatar": "franciscotoldy.jpg",
+        "name": "Francisco Toldy"
+      }
+    ]
+  },
+  "tech": {
+    "title": "Tech",
+    "list": [
+      {
+        "avatar": "darioguimaraes.jpg",
+        "name": "Dário Guimarães"
+      },
+      {
+        "avatar": "enzovieira.jpg",
+        "name": "Enzo Vieira"
+      },
+      {
+        "avatar": "joaolobo.jpg",
+        "name": "João Lobo"
+      },
+      {
+        "avatar": "ruilopes.jpg",
+        "name": "Rui Lopes"
+      },
+      {
+        "avatar": "tiagobacelar.jpg",
+        "name": "Tiago Bacelar"
+      }
+    ]
+  },
+  "merch": {
+    "title": "Merch",
+    "list": [
+      {
+        "avatar": "zitaduarte.jpg",
+        "name": "Zita Duarte"
+      },
+      {
+        "avatar": "miguelgramoso.jpg",
+        "name": "Miguel Gramoso"
+      }
+    ]
+  }
+}

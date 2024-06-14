@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "name": "Verificações"
+  },
+  {
+    "id": 2,
+    "name": "Desafios"
+  },
+  {
+    "id": 3,
+    "name": "Geral"
+  },
+  {
+    "id": 4,
+    "name": "Empresas"
+  },
+  {
+    "id": 5,
+    "name": "Oradores"
+  },
+  {
+    "id": 6,
+    "name": "Talks"
+  },
+  {
+    "id": 7,
+    "name": "Workshops"
+  },
+  {
+    "id": 9,
+    "name": "Pitches"
+  }
+]
