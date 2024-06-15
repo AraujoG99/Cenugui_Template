@@ -27,7 +27,7 @@ export default function LoginForm() {
     <div className="mt-8">
       <Form onSubmit={onFinish}>
         <Input
-          text="YOUR EMAIL"
+          text="EMAIL"
           id="email"
           name="email"
           type="email"
@@ -37,7 +37,7 @@ export default function LoginForm() {
           ref={emailRef}
         />
         <PasswordInput
-          text="YOUR PASSWORD"
+          text="PASSWORD"
           id="password"
           name="password"
           fgColor="white"
@@ -46,8 +46,8 @@ export default function LoginForm() {
         />
         <Text
           padding="6"
-          text="Forgot your password?"
-          link="Right this way"
+          text="Não sabes a tua password?"
+          link="Clica aqui!"
           href="/forgot-password"
         />
         <Button

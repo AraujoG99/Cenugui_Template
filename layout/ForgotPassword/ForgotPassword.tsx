@@ -21,7 +21,7 @@ function ForgotPassword() {
             transition={{ duration: 1 }}
           >
             <Card img="/images/void.svg" alt="MascotFooter" inverted={false}>
-              Happens to the best of us, don’t worry
+              Só acontece com os melhores, não te preocupes!
             </Card>
           </Motion.div>
         </div>

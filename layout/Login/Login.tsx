@@ -37,8 +37,8 @@ function Login() {
         <Title text="Log in" />
         <LoginForm />
         <Text
-          text="Don’t have an account?"
-          link="Register here"
+          text="Ainda não tens conta?"
+          link="Regista-te Aqui!"
           href="/signup"
         />
       </div>

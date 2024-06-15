@@ -3,7 +3,7 @@ import Head from "next/head";
 export default function Header() {
   return (
     <Head>
-      <title>SEI 2024</title>
+      <title>Cenugui</title>
       <link
         rel="apple-touch-icon"
         sizes="180x180"

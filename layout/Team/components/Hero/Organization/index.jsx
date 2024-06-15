@@ -3,20 +3,17 @@ import Link from "next/link";
 
 export default function Organization() {
   return (
-    <div className="absolute right-0 grid grid-rows-2">
-      <h5 className="font-terminal-uppercase text-sm text-white">
-        Organização:
-      </h5>
-      <Link href="https://cenaculo.escutismo.pt/" legacyBehavior>
-        <a target="_blank" rel="noopener noreferrer">
-          <Image
-            src="/images/LogoNucleoGuimarães.svg"
-            width="240"
-            height="82"
-            alt="Guimarães"
-          />
-        </a>
-      </Link>
-    </div>
+    <div className="flex flex-col items-center space-y-2 absolute right-0">
+  <h5 className="font-medium text-sm text-white">Cenáculo Nacional:</h5>
+  <a target="_blank" rel="noopener noreferrer" href="https://cenaculo.escutismo.pt/">
+    <Image
+      src="/images/logo_cenaculo_branco.svg"
+      width="70"
+      height="70"
+      alt="cenaculo"
+      className="select-none"
+    />
+  </a>
+</div>
   );
 }

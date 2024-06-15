@@ -32,7 +32,7 @@ export default function ForgotPasswordForm() {
         <div className="mt-8">
           <Form onSubmit={onSubmit}>
             <Input
-              text="YOUR EMAIL"
+              text="EMAIL"
               id="email"
               name="email"
               type="email"
@@ -43,7 +43,7 @@ export default function ForgotPasswordForm() {
             />
             <ImageButton
               type="submit"
-              text="LET’S GO"
+              text="ENVIAR"
               customStyle="text-secondary bg-quinary border-quinary"
               imageSrc={isLoading ? "/images/loading.gif" : ""}
               imageAlt="HANG TIGHT..."
@@ -55,21 +55,20 @@ export default function ForgotPasswordForm() {
 
       {success == false && (
         <p className="mt-10 font-iregular text-red-600">
-          An error has occured. Please make sure the email you provided is
-          correct and try again later
+          Email não registado, verifica o email que escreveste.
         </p>
       )}
 
       {success && (
         <p className="mt-10 font-iregular text-quinary">
-          An email has bent sent. Please check your inbox to reset your password
-        </p>
+          E-mail enviado. Verifique a caixa de entrada para repôr a password.
+                  </p>
       )}
 
       {!success && (
         <Text
-          text="Don’t have an account?"
-          link="Register here"
+          text="Ainda não tens conta?"
+          link="Regista-te Aqui!"
           href="/signup"
         />
       )}

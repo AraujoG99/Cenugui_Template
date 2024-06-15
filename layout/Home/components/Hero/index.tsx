@@ -19,7 +19,7 @@ export default function Hero() {
         <Title />
         <div className="relative mt-24 text-white">
           <div className="flex items-center justify-between">
-            <h5 className="font-imedium">Follow us on</h5>
+            <h5 className="font-imedium">Segue-nos</h5>
             {isAuthenticated || (
               <div className="lg:hidden">
                 <JoinUs />
