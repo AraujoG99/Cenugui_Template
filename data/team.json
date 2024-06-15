@@ -1,123 +1,111 @@
 {
-  "organization": {
-    "title": "Main Organization",
+  "coordenacao": {
+    "title": "Coordenação",
     "list": [
       {
-        "avatar": "gustavopereira.jpg",
-        "name": "Gustavo Pereira"
+        "avatar": "joanafernandes.jpg",
+        "name": "Joana Fernandes",
+        "agr": "566 - Creixomil"
       },
       {
-        "avatar": "mariorodrigues.jpg",
-        "name": "Mário Rodrigues"
-      },
-      {
-        "avatar": "ruioliveira.jpg",
-        "name": "Rui Oliveira"
+        "avatar": "vascomota.jpg",
+        "name": "Vasco Mota",
+        "agr": "455 - Vermil"
       }
     ]
   },
-  "marketing": {
-    "title": "Marketing",
+  "animacao": {
+    "title": "Animação",
     "list": [
       {
-        "avatar": "adrianafrazao.jpg",
-        "name": "Adriana Frazão"
+        "avatar": "joaooliveira.jpg",
+        "name": "João Oliveira",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "placeholder.png",
-        "name": "Eduardo Faria"
+        "avatar": "franciscafumega.jpg",
+        "name": "Francisca Fumega",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "juliopinto.jpg",
-        "name": "Júlio Pinto"
-      },
-      {
-        "avatar": "lararegina.jpg",
-        "name": "Lara Regina"
-      },
-      {
-        "avatar": "rafaelseara.jpg",
-        "name": "Rafael Seara"
-      },
-      {
-        "avatar": "ricardolucena.jpg",
-        "name": "Ricardo Lucena"
-      },
-      {
-        "avatar": "ritacamacho.jpg",
-        "name": "Rita Camacho"
+        "avatar": "antonioferreira.jpg",
+        "name": "António Ferreira",
+        "agr": "455 - Vermil"
       }
     ]
   },
-  "program": {
-    "title": "Program",
+  "comunicacao": {
+    "title": "Comunicação",
     "list": [
       {
-        "avatar": "fernandopires.jpg",
-        "name": "Fernando Pires"
+        "avatar": "ritarodrigues.jpg",
+        "name": "Rita Rodrigues",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "martimferreira.jpg",
-        "name": "Martim Ferreira"
-      },
-      {
-        "avatar": "pedrosousa.jpg",
-        "name": "Pedro Sousa"
-      },
-      {
-        "avatar": "salomefaria.jpg",
-        "name": "Salomé Faria"
+        "avatar": "franciscamendes.jpg",
+        "name": "Francisca Mendes",
+        "agr": "455 - Vermil"
       }
     ]
   },
-  "activities": {
-    "title": "Sponsorships",
+  "forum": {
+    "title": "Fórum",
     "list": [
       {
-        "avatar": "placeholder.png",
-        "name": "Flávia Araújo"
+        "avatar": "goncaloaraujo.jpg",
+        "name": "Gonçalo Araújo",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "franciscotoldy.jpg",
-        "name": "Francisco Toldy"
+        "avatar": "anasilva.jpg",
+        "name": "Ana Luísa Silva",
+        "agr": "455 - Vermil"
+      },
+      {
+        "avatar": "margaridafernandes.jpg",
+        "name": "Margarida Fernandes",
+        "agr": "455 - Vermil"
       }
     ]
   },
-  "tech": {
-    "title": "Tech",
+  "logistica": {
+    "title": "Logística",
     "list": [
       {
-        "avatar": "darioguimaraes.jpg",
-        "name": "Dário Guimarães"
+        "avatar": "carlossilva.jpg",
+        "name": "Carlos Silva",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "enzovieira.jpg",
-        "name": "Enzo Vieira"
-      },
-      {
-        "avatar": "joaolobo.jpg",
-        "name": "João Lobo"
-      },
-      {
-        "avatar": "ruilopes.jpg",
-        "name": "Rui Lopes"
-      },
-      {
-        "avatar": "tiagobacelar.jpg",
-        "name": "Tiago Bacelar"
+        "avatar": "dianasilva.jpg",
+        "name": "Diana Silva",
+        "agr": "455 - Vermil"
       }
     ]
   },
-  "merch": {
-    "title": "Merch",
+  "embaixador": {
+    "title": "Embaixador",
     "list": [
       {
-        "avatar": "zitaduarte.jpg",
-        "name": "Zita Duarte"
+        "avatar": "ritacosta.jpg",
+        "name": "Rita Costa",
+        "agr": "455 - Vermil"
+      }
+    ]
+  },
+  "observadores": {
+    "title": "Observadores",
+    "list": [
+      {
+        "avatar": "tiagopereira.jpg",
+        "name": "Tiago Pereira",
+        "agr": "455 - Vermil"
       },
       {
-        "avatar": "miguelgramoso.jpg",
-        "name": "Miguel Gramoso"
+        "avatar": "luisfreitas.jpg",
+        "name": "Luís Freitas",
+        "agr": "455 - Vermil"
       }
     ]
   }

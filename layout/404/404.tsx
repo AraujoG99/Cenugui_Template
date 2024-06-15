@@ -15,10 +15,10 @@ export default function Error() {
           <div className="bg-secondary pt-14">
             <div className="font-terminal-uppercase relative z-20">
               <h5 className="text-7xl text-quinary lg:text-8xl xl:text-9xl">
-                404
+                Erro 404
               </h5>
               <h1 className="relative z-0 text-7xl text-white md:w-4/5 lg:text-8xl xl:text-9xl">
-                You’re in the wrong line of code, pal.
+                Página errada. Algo não correu bem...
               </h1>
             </div>
             <div className="relative z-50 mt-5 w-1/2 lg:mt-7">
@@ -26,7 +26,7 @@ export default function Error() {
                 onClick={(e) => (window.location.href = "/")}
                 className="w-full items-center rounded-full border-tertiary px-4 py-4 text-center font-iregular text-sm text-white shadow-sm hover:text-quinary"
               >
-                Back to Homepage
+                Voltar à página principal
               </button>
             </div>
           </div>

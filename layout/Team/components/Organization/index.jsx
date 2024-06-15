@@ -35,12 +35,6 @@ function Animation() {
           animate={{ y: -15, opacity: 1 }}
           transition={{ duration: 1 }}
         >
-          <div className={`-mt-6 ${styles.cardfooter} border-b-2 border-white`}>
-            <Card img="/images/void.svg" alt="MascotFooter" inverted={false}>
-              I am also very important to the team. Actually I should be in
-              first place
-            </Card>
-          </div>
         </Motion.div>
       ) : (
         <></>
@@ -54,47 +48,45 @@ export default function Organization() {
     <section className="spacing relative grid grid-cols-1 gap-x-32 gap-y-8 py-20 lg:grid-cols-2">
       <div className="text-white">
         <h2 className="font-terminal-uppercase mb-4 select-none text-4xl font-bold">
-          Organization
+          Equipa Projeto
         </h2>
         <p className="font-imedium">
-          They walk around, full of work, gathering speakers, attracting
-          partners and giving their imagination wings, all for this to be your
-          favorite week.
+          A incrível equipa que preparou esta grande atividade para ti!
         </p>
       </div>
 
       <Team
-        title={team["organization"].title}
-        list={sortListMembers(team["organization"].list)}
+        title={team["coordenacao"].title}
+        list={sortListMembers(team["coordenacao"].list)}
         cols={3}
       />
 
       <Team
-        title={team["marketing"].title}
-        list={sortListMembers(team["marketing"].list)}
+        title={team["animacao"].title}
+        list={sortListMembers(team["animacao"].list)}
       />
 
       <Team
-        title={team["tech"].title}
-        list={sortListMembers(team["tech"].list)}
-      />
-
-      <div className="hidden select-none grid-cols-3 items-center justify-center lg:flex">
-        <SeiAnimation />
-      </div>
-
-      <Team
-        title={team["program"].title}
-        list={sortListMembers(team["program"].list)}
+        title={team["comunicacao"].title}
+        list={sortListMembers(team["comunicacao"].list)}
       />
 
       <Team
-        title={team["activities"].title}
-        list={sortListMembers(team["activities"].list)}
+        title={team["forum"].title}
+        list={sortListMembers(team["forum"].list)}
+      />
+
+      <Team
+        title={team["logistica"].title}
+        list={sortListMembers(team["logistica"].list)}
       />
       <Team
-        title={team["merch"].title}
-        list={sortListMembers(team["merch"].list)}
+        title={team["embaixador"].title}
+        list={sortListMembers(team["embaixador"].list)}
+      />
+      <Team
+        title={team["observadores"].title}
+        list={sortListMembers(team["observadores"].list)}
       />
     </section>
   );

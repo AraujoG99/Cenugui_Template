@@ -88,20 +88,20 @@ export default function Footer(props: IFooterProps) {
       <div className="flex flex-col justify-between gap-16 py-10 lg:flex-row">
         <div className="flex select-none items-start justify-center font-ibold lg:justify-start">
           <Image
-            src="/images/sei-logo.svg"
+            src="/images/logo_cenugui_branco.svg"
             width={100}
             height={100}
-            alt="SEI Logo"
+            alt="Cenáculo Logo"
           />
           <p className="pl-6 text-white lg:flex-1">
-            Semana da <br />
-            Engenharia
+            23º Ciclo <br />
+            Cenáculo
             <br />
-            Informática
+            Guimarães
           </p>
         </div>
 
-        <div className="mx-2 mt-20 hidden select-none justify-center pb-10 lg:flex">
+        {/*<div className="mx-2 mt-20 hidden select-none justify-center pb-10 lg:flex">
           <Animation
             text={
               props.footerAnimationText != undefined ? (
@@ -113,28 +113,28 @@ export default function Footer(props: IFooterProps) {
           >
             {props.children}
           </Animation>
-        </div>
+        </div>*/}
 
         <div className="flex-2">
-          <div className="grid select-none grid-rows-2 justify-items-center gap-8 whitespace-nowrap font-iregular text-sm text-white lg:grid-cols-2 lg:justify-items-start">
+          <div className="grid select-none grid-rows-2 justify-items-center gap-8 whitespace-nowrap font-iregular text-sm text-white lg:grid-cols-2 lg:justify-items-end">
             <Link
-              href="https://2023.seium.org/"
+              href="https://sites.google.com/view/cenugui/"
               className="text-white hover:underline"
             >
-              Previous Edition
+              Ciclos Anteriores
             </Link>
             <Link
               href="https://forms.gle/AmWefKeDN3XNtVh57"
               className="hover:underline"
             >
-              Report a Problem
+              Fotos 22ºCiclo
             </Link>
-            <Link href="/docs/survival.pdf" className="hover:underline">
+            {/*<Link href="/docs/survival.pdf" className="hover:underline">
               Survival Guide
             </Link>
             <Link href="/docs/regulation.pdf" className="hover:underline">
               General Regulation
-            </Link>
+            </Link>*/}
           </div>
           <div className="flex justify-center lg:justify-end">
             <div className="mt-10 text-white lg:mt-0">

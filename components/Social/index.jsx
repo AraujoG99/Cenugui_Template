@@ -14,7 +14,7 @@ export default function Social() {
     <div className="mt-4 flex items-center space-x-3 md:space-x-4">
       <a
         className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://www.instagram.com/sei.uminho"
+        href="https://www.instagram.com/cenugui"
         target="_blank"
         rel="noreferrer"
       >
@@ -22,31 +22,7 @@ export default function Social() {
       </a>
       <a
         className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://www.linkedin.com/company/sei-cesium"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FontAwesomeIcon icon={faLinkedinIn} />
-      </a>
-      <a
-        className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://github.com/cesium/seium.org"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FontAwesomeIcon icon={faGithub} />
-      </a>
-      <a
-        className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://x.com/cesiuminho"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FontAwesomeIcon icon={faXTwitter} />
-      </a>
-      <a
-        className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://www.facebook.com/SEI.UMinho/"
+        href="https://www.facebook.com/cenugui/"
         target="_blank"
         rel="noreferrer"
       >
@@ -54,15 +30,7 @@ export default function Social() {
       </a>
       <a
         className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="https://discord.gg/stUtCjsnHx"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <FontAwesomeIcon icon={faDiscord} />
-      </a>
-      <a
-        className="w-5 transition-colors duration-75 ease-in hover:text-quinary"
-        href="mailto:geral@seium.org"
+        href="mailto:cenaculo.guimaraes@escutismo.pt"
         target="_blank"
         rel="noreferrer"
       >

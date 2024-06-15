@@ -14,8 +14,8 @@ import BackOfficeWrapper from "@components/FeatureFlags/BackOfficeWrapper";
 import styles from "./style.module.css";
 
 const navigation = [
-  { name: "Schedule", slug: "/schedule" },
-  { name: "Team", slug: "/team" },
+  { name: "Horário", slug: "/schedule" },
+  { name: "EP", slug: "/team" },
   { name: "Challenges", slug: "/challenges" },
   { name: "Speakers", slug: "/speakers" },
   { name: "FAQs", slug: "/faqs" },
@@ -63,10 +63,10 @@ export default function Navbar({ bgColor, fgColor, button, children }) {
                     <div className={`${styles.logo} select-none pt-4 lg:pt-8`}>
                       <Image
                         className="cursor-pointer transition-colors duration-75 ease-in hover:text-quinary"
-                        src="/images/sei-logo.svg"
+                        src="/images/Logo_Cenugui_Branco.svg"
                         width="50"
                         height="40"
-                        alt="SEI Logo"
+                        alt="Cenugui White Logo"
                       />
                     </div>
                   </Link>
