@@ -8,7 +8,7 @@ export default function Pitch() {
         for this to be your favorite week.
       </h2>
       <div className="mt-8 flex w-56">
-        <a href="/team">
+        <a href="/Team">
           <Button
             title="MEET THE TEAM"
             className="h-20 w-56 border-2 border-white text-white transition-colors hover:border-quinary hover:bg-quinary/10 hover:text-quinary"

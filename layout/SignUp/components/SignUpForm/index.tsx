@@ -84,7 +84,7 @@ export default function SignUpForm({ courses }) {
     <>
       <Form onSubmit={onFinish}>
         <Input
-          text="NAME"
+          text="NOME"
           id="name"
           name="name"
           fgColor="white"
@@ -110,7 +110,7 @@ export default function SignUpForm({ courses }) {
           onChange={(e) => updateNickname(e.currentTarget.value)}
         />
         <Select
-          text="COURSE"
+          text="AGRUPAMENTO"
           id="course"
           fgColor="white"
           bgColor="primary"
@@ -130,7 +130,7 @@ export default function SignUpForm({ courses }) {
           onChange={(e) => updatePassword(e.currentTarget.value)}
         />
         <PasswordInput
-          text="CONFIRM PASSWORD"
+          text="CONFIRMA A PASSWORD"
           id="confirm"
           name="confirm"
           fgColor="white"
@@ -138,7 +138,7 @@ export default function SignUpForm({ courses }) {
           onChange={(e) => updatePasswordConfirmation(e.currentTarget.value)}
         />
         <Button
-          title={showQRScanner ? "STOP SCANNING" : "SCAN QR"}
+          title={showQRScanner ? "STOP SCANNING" : "SCAN QR CODE"}
           className="h-12 w-full border-quinary bg-quinary text-secondary"
           onClick={(e) => {
             e.preventDefault();
@@ -149,26 +149,26 @@ export default function SignUpForm({ courses }) {
           selected={termsAccepted}
           onChange={(e) => setTermsAccepted(!termsAccepted)}
         >
-          I have read and understood the &nbsp;
+          Li e aceito a &nbsp;
           <Link
             href="/docs/privacy_policy.pdf"
             target="_blank"
             className="text-quinary"
           >
-            privacy policy
+            política de privacidade
           </Link>{" "}
-          and the &nbsp;
+          e o &nbsp;
           <Link
             href="/docs/regulation.pdf"
             target="_blank"
             className="text-quinary"
           >
-            general regulation
+            regulamento geral da atividade.
           </Link>
         </Checkbox>
         {scanned && (
           <p className="mt-3 font-iregular text-lg text-quinary">
-            QR Code scanned successfully: {uuid}
+            QR Code registado com sucesso: {uuid}
           </p>
         )}
         {showQRScanner && (
@@ -186,7 +186,7 @@ export default function SignUpForm({ courses }) {
         )}
         <Button
           type="submit"
-          title={isLoading ? "Registering..." : "LET'S GO"}
+          title={isLoading ? "A REGISTAR..." : "REGISTAR"}
           className="h-12 w-full border-quinary bg-quinary text-secondary"
         />
         {(local_error || (!isLoading && errors)) && (

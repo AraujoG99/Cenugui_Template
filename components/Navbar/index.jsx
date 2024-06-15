@@ -16,9 +16,9 @@ import styles from "./style.module.css";
 const navigation = [
   { name: "Horário", slug: "/schedule" },
   { name: "EP", slug: "/team" },
-  { name: "Challenges", slug: "/challenges" },
+  /*{ name: "Challenges", slug: "/challenges" },
   { name: "Speakers", slug: "/speakers" },
-  { name: "FAQs", slug: "/faqs" },
+  { name: "FAQs", slug: "/faqs" },*/
 ];
 
 const roleNavigation = (user) => {
